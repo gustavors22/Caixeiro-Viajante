@@ -1,0 +1,4 @@
+scikit-opt
+matplotlib
+scipy
+numpy
